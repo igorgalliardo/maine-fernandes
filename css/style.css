@@ -364,7 +364,7 @@ body {
 .hero-contact {
     height: 50vh;
     min-height: 360px;
-    background: url("../img/hero.jpg") center/cover no-repeat;
+    background: url("../img/hero.webp") center/cover no-repeat;
 }
 
 /* GRID CONTATO */
